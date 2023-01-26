@@ -1,4 +1,3 @@
-### Проект базы данных "Шахматный турнир", реализованный в рамках курса "Базы данных" в 4ом семестре
-
+## Database project "Chess Tournament", which was implemented as a part of the course "Databases" in the 4th semester
 
 ![Логическая модель](logical_model.png)
